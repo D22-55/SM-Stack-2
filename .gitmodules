@@ -1,0 +1,3 @@
+[submodule "New folder/backend"]
+	path = New folder/backend
+	url = https://github.com/D22-55/SM-Stack-2.git
